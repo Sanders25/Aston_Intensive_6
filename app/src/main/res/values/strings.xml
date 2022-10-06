@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aston_Intensive_6</string>
+    <string name="number">Номер</string>
+    <string name="name">Имя</string>
+    <string name="save">Сохранить</string>
+    <string name="image_placeholder">Image</string>
+    <string name="search">Найти...</string>
+    <string name="menu_delete">Удалить</string>
+</resources>
